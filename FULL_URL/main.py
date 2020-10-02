@@ -19,7 +19,7 @@ def main():
 
         print ("The full name of " + sys.argv[2] + " is " + full_name)
     else:
-        print ("main.py -i input_name")
+        print ("build_full_name.py -i input_name")
 
 if __name__ == '__main__':
     main()
